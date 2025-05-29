@@ -1,32 +1,6 @@
 # 👋 Hello World! I am Yasmin Sekh.
 
-I'm a passionate tech enthusiast, curious coder, and problem solver who thrives on building real-world solutions with creativity and purpose. Whether it's building apps, mentoring in hackathons, or pushing the boundaries with AI and automation, I’m always up for a new challenge!
-
-
-## 🚀 Currently Working On:
-- 🧠 AI-based tools and career advisory apps  
-- 📱 Cross-platform apps using **Flutter**, **Firebase**, **Supabase**, and **FastAPI**  
-- 🌐 Web and cloud solutions with real-time data integrations
-
-
-
-## 💫 Fun Facts:
-- 🏆 Hackathon enthusiast & mentor  
-- 🛠️ Built Chrome extensions, smart weather-based platforms, and an AI-powered career advisor  
-- 💡 Actively contributing to open source and tech communities  
-- 🧩 Sleep is optional when building something cool 😄  
-
-
-## 🌱 I’m Learning:
-- 🗣️ How to speak fluent AI  
-- 🤖 Automating meaningful solutions with ML & APIs  
-- 🎯 Optimizing performance for cross-platform apps  
-
-## 💬 Ask Me About:
-- 🚀 Hackathons & product ideation  
-- 📲 Flutter and backend APIs  
-- 🔒 Cybersecurity and automation  
-- 😄 Or just send me tech memes!
+I’m a caffeine-fueled techie who loves turning wild ideas into real-world apps. Whether it’s building AI-powered career advisors, crafting sleek cross-platform apps with Flutter & FastAPI, or mentoring at hackathons—I’m all in! From Chrome extensions to weather-savvy platforms, I build, break, and rebuild with purpose (and vibes). I thrive on open source, live for late-night debugging, and speak a bit of AI on the side 🤖. Currently levelling up my automation skills, app performance game, and ML wizardry. Got a cool idea, a tough bug, or a spicy meme? Hit me up! 💥
 
 
 
