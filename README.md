@@ -13,6 +13,8 @@ I’m a caffeine-fueled techie who loves turning wild ideas into real-world apps
 
 ## 🧰 Tech Stack:
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YASMIN-SEKH&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ### 👩‍💻 Languages & Scripting:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -69,20 +71,11 @@ I’m a caffeine-fueled techie who loves turning wild ideas into real-world apps
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=YASMIN-SEKH&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YASMIN-SEKH&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YASMIN-SEKH&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YASMIN-SEKH&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=YASMIN-SEKH&icon=0&color=0)](https://visitcount.itsvg.in)
----
 
 > ✨ “Turning caffeine and code into innovation!”  
 > 🧠 Always learning. Always building. Always shipping.
