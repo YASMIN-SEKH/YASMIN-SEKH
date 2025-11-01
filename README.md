@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/YASMIN-SEKH/YASMIN-SEKH/blob/main/1741627594056.jpeg" alt="Yasmin Sekh Banner" width="100%" />
+</p>
+
 # 👋 Hello World! I am Yasmin Sekh.
 
 I’m a caffeine-fueled techie who loves turning wild ideas into real-world apps. Whether it’s building AI-powered career advisors, crafting sleek cross-platform apps with Flutter & FastAPI, or mentoring at hackathons—I’m all in! From Chrome extensions to weather-savvy platforms, I build, break, and rebuild with purpose (and vibes). I thrive on open source, live for late-night debugging, and speak a bit of AI on the side 🤖. Currently levelling up my automation skills, app performance game, and ML wizardry. Got a cool idea, a tough bug, or a spicy meme? Hit me up! 💥
