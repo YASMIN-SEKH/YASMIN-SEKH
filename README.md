@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/YASMIN-SEKH/YASMIN-SEKH/blob/main/1741627594056.jpeg" alt="Yasmin Sekh Banner" width="100%" />
+  <img src="https://github.com/YASMIN-SEKH/YASMIN-SEKH/blob/main/Screenshot%202025-11-02%20001456.png" alt="Yasmin Sekh Banner" width="100%" />
 </p>
 
 # 👋 Hello World! I am Yasmin Sekh.
