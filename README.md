@@ -6,7 +6,7 @@
 
 I’m a caffeine-fueled techie who loves turning wild ideas into real-world apps. Whether it’s building AI-powered career advisors, crafting sleek cross-platform apps with Flutter & FastAPI, or mentoring at hackathons—I’m all in! From Chrome extensions to weather-savvy platforms, I build, break, and rebuild with purpose (and vibes). I thrive on open source, live for late-night debugging, and speak a bit of AI on the side 🤖. Currently levelling up my automation skills, app performance game, and ML wizardry. Got a cool idea, a tough bug, or a spicy meme? Hit me up! 💥
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YASMIN-SEKH)](https://git.io/streak-stats)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasminsekh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yasmin0sekh0@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-121212?logo=firefox-browser&logoColor=white)](https://portfolio-9k4.pages.dev/)
